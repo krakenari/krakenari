@@ -1,4 +1,4 @@
-# Krakenari
+# Personal portfolio
 
 A personal portfolio experience built with React, TypeScript, and Vite.
 
@@ -41,3 +41,8 @@ src/
 - `portfolio/pages` contains page layouts, while `components` contains reusable pieces.
 - The `@/` alias points to the `src/` directory.
 - New Markdown files inside `features/blog/content` are discovered automatically.
+
+# 🌙
+<img width="1904" height="1064" alt="image" src="https://github.com/user-attachments/assets/383d32f8-da9e-45a3-a4a5-82365718264f" />
+<img width="1908" height="1065" alt="image" src="https://github.com/user-attachments/assets/41c96f66-552e-4613-ba55-af507085db79" />
+
